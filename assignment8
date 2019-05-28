@@ -1,0 +1,93 @@
+<!DOCTYPE html> 
+<html> 
+    <head> 
+        <meta charset="utf-8"> 
+        <meta name="viewport" content="width=device-width, maximum-scale=1.0" />
+
+        <title>Julie's Digital Fabrication Page!</title> 
+
+        <link href="style.css" media="screen" rel="stylesheet" type="text/css" />
+
+    </head> 
+    <body> 
+
+        <div class="header">
+            <h1>Julie's Assignment 8!</h1>
+            <p>
+            </p>
+            <p>
+            Here is all the documentation for assignment 8!
+            </p>
+
+            
+            <p>
+            For assignment 8 - I would like to create a clock using some of the mixed methods that we've learned throughout the quarter. My goal in creating a clock is to have something that's (almost) useful and realistic in a working context. Additionally, it aligns with the theme of many of the projects this quarter - desk objects - like the Vase, Lamp, Scissors and Copper Box Nicknack.
+            
+            </p>
+            <p>
+                <img src="patrickstar.jpg" width=400></a>
+</p>
+       
+</p>
+
+
+</p>
+<p>
+</p>
+<p>
+</p>
+            <p>
+Breakdown of the design</p>
+<p>  The Base: I plan to use Onshape to create a the circular base and to partially cut in the times in roman numerals.
+</p>
+<p> The hands: I plan on using either onshape or rhino to create the hands of the clock, and then 3D printing them
+</p>
+<p> The connector: I plan on using one of the plastic connectors that Joshua passed out in class to combine the 3 objects together. This will allow them to form as a movable part (although  manual)
+</p>
+<p>  <img src="Machinewax2.gif" width=400></a>
+</p>
+<p>
+</p>
+
+         
+</p>
+<p> Timeline:
+I used the communal plaster material that Lukas provided - Thank you Lukas! and I transported some material home in two plastic bags. Once home I mixed the material together and began creating my first mold.
+</p>
+<p>The Base: 30 minutes in Onshape, 30 minutes for laser cutting - on Acrylic
+</p>
+<p>The hands: 1 hour in Onshape, (likely several hours) for printing will give myself two days minimum to plan for printing and any snafus.
+         <img src="patrick.ontable.png" width=400></a>
+                
+</p>
+<p>
+                
+</p>
+<p> 
+</p>
+<p>
+   
+                See Rhino file for the design elements <a href=""> here </a>    
+</p>
+
+         
+            
+            </p>
+            <p>
+</p>
+            <p>
+</p>
+         
+</p>
+<p>
+</p>
+        <p>
+<p>
+</p>
+<p> </p>
+</p>
+<p></p>
+        </div>
+        
+    </body>
+</html>
